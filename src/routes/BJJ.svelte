@@ -6,7 +6,7 @@
 <section id="section-3"></section>
 <section id="section-4"></section>
 <section id="section-bjj">
-	<div class="container-fluid row d-lg-none d-flex" id="mobile-bjj">
+	<div class="container-fluid row d-lg-none d-flex text-center" id="mobile-bjj">
 		<div class="col-12 row mx-auto p-0">
 			
 			<div class="col-12 bg-black"><h1 class="text-center pt-1">BJJ</h1><p class="font-unisans-thin pt-1">inia libero, at fringilla felis efficitur sit amet. Fusce id ex quis nisl dapibus</p></div>

@@ -11,7 +11,7 @@
 			
 
 						
-			<div class="col-12 bg-black text-center"><h2 class="p-5 font-unisans-thin">Chcete to zkusit? <br><span class="font-unisans">Napište nám</span></h2>
+			<div class="col-12 bg-black text-center"><h2 class="p-5 font-unisans-thin">Chceš to zkusit? <br><span class="font-unisans">Napiš nám</span></h2>
 			</div>
 			<div class="col-12 bg-black">				
 				<form action="/" method="POST" class="contact-form p-5">
@@ -28,6 +28,7 @@
 					  <div class="form-floating mb-3">
 						<input type="email" class="form-control" id="floatingInput" placeholder="Email">
 						<label for="floatingInput">Email</label>
+						<small class="font-unisans-thin">Více informací obdržíte emailem </small>
 					  </div>
 					  <div class="form-floating mb-3">
 						<input type="email" class="form-control" id="floatingInput" placeholder="Telefon">
@@ -58,7 +59,7 @@
 					  </div>
 
 					  <div class="form-floating mb-3">
-						<input type="submit" class="btn btn-block" value="Odeslat">
+						<input type="submit" class="btn btn-block submit-button" value="Odeslat">
 					  </div>
 
 				</form></div>
@@ -73,7 +74,7 @@
 		<div class="col-12 row bg-carbon p-5 mx-auto">
 			<div class="col-1"></div>
 			
-			<div class="col-3 bg-black"><h2 class="p-5 font-unisans-thin">Chcete to zkusit? <span class="font-unisans">Napište nám</span></h2></div>
+			<div class="col-3 bg-black"><h2 class="p-5 font-unisans-thin">Chceš to zkusit? <span class="font-unisans">Napiš nám.</span></h2></div>
 			<div class="col-7 bg-black">				
 				<form action="/" method="POST" class="contact-form p-5">
 					<div class="form-floating mb-3">

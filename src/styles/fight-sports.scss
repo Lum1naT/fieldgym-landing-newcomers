@@ -1,0 +1,23 @@
+@import './customVariables.scss';
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+#mobile-fight-sports {
+    h1 {
+        font-size: 5em;
+    }
+    p {
+        font-size: 1.5em;
+    }
+}
+
+#desktop-fight-sports {
+    h1 {
+        font-size: 5em;
+    }
+    p {
+        font-size: 1.5em;
+    }
+}
