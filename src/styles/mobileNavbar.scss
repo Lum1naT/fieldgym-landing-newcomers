@@ -25,6 +25,9 @@
         font-size: $mobile-font-size-default;
         flex: auto;
         min-width: 3.5em;
+        border-left-color: white;
+        border-left: 3px;
+        border-left-style: solid;
     }
     .navbar a:hover {
         background: white;
