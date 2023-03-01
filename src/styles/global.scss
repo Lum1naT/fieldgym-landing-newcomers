@@ -1,17 +1,17 @@
 @import './customVariables.scss';
 @font-face {
     font-family: 'acetone';
-    src: url("acetone.woff") format('woff');
+    src: url("fonts/acetone.woff") format('woff');
 }
 
 @font-face {
     font-family: 'unisans';
-    src: url("uni-sans-bold.woff") format('woff');
+    src: url("fonts/uni-sans-bold.woff") format('woff');
 }
 
 @font-face {
     font-family: 'unisans-thin';
-    src: url("uni-sans-thin.woff") format('woff');
+    src: url("fonts/uni-sans-thin.woff") format('woff');
 }
 
 body {
