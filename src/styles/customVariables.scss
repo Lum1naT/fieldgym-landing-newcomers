@@ -1,0 +1,26 @@
+// spacing - desktop
+$desktop-section-margin: 7em;
+$desktop-menu-height: 110px;
+$brick-border-radius: 30px;
+// spacing - mobile
+$mobile-section-margin: 3em;
+$mobile-menu-margin: 3em;
+//fontsize - desktop
+$desktop-font-size-default: 1em;
+$desktop-font-size-menu: 1.4em;
+$desktop-font-size-h1: 2.8em;
+$desktop-font-size-h2: 2em;
+//fontsize - mobile
+$mobile-font-size-default: 1.2em;
+$mobile-font-size-menu: 1.2em;
+$mobile-font-size-heading: 1.4em;
+// colors
+$text-color: rgb(18, 18, 18);
+$color-black: rgb(15, 15, 15);
+$color-white: rgb(241, 241, 241);
+$color-main: rgb(0, 203, 221);
+$color-azure: $color-main;
+$background-brick: linear-gradient(335deg, $color-main 23px, transparent 23px),
+linear-gradient(155deg, #d00 23px, transparent 23px),
+linear-gradient(335deg, #b00 23px, transparent 23px),
+linear-gradient(155deg, $color-main 23px, transparent 23px);

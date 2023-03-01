@@ -1,0 +1,29 @@
+@import './customVariables.scss';
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+#section-bjj {
+    @media (min-width: 992px) {
+        margin-top: $desktop-menu-height;
+    }
+}
+
+#mobile-bjj {
+    h1 {
+        font-size: 7em;
+    }
+    p {
+        font-size: 1.5em;
+    }
+}
+
+#desktop-bjj {
+    h1 {
+        font-size: 7em;
+    }
+    p {
+        font-size: 1.5em;
+    }
+}

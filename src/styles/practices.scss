@@ -1,0 +1,44 @@
+@import './customVariables.scss';
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+#mobile-practices {}
+
+#desktop-practices {
+    background-color: silver;
+    background-image: $background-brick;
+    background-size: 58px 58px;
+    background-position: 0px 2px, 4px 35px, 29px 31px, 34px 6px;
+    .col-8 {
+        border-radius: 20px;
+    }
+    .outline {
+        border: 7px solid silver;
+    }
+    .arrow-up {
+        width: 0;
+        height: 0;
+        border-left: 30px solid transparent;
+        border-right: 30px solid transparent;
+        border-bottom: 30px solid $color-main;
+        border-top: 30px solid transparent;
+    }
+    .arrow-right {
+        width: 0;
+        height: 0;
+        border-left: 30px solid $color-main;
+        border-right: 30px solid transparent;
+        border-bottom: 30px solid transparent;
+        border-top: 30px solid transparent;
+    }
+    .arrow-left {
+        width: 0;
+        height: 0;
+        border-left: 30px solid transparent;
+        border-right: 30px solid $color-main;
+        border-bottom: 30px solid transparent;
+        border-top: 30px solid transparent;
+    }
+}

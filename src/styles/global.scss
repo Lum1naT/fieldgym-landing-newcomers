@@ -1,0 +1,43 @@
+@import './customVariables.scss';
+@font-face {
+    font-family: 'acetone';
+    src: url("acetone.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'unisans';
+    src: url("uni-sans-bold.otf") format('opentype');
+}
+
+@font-face {
+    font-family: 'unisans-thin';
+    src: url("uni-sans-thin.otf") format('opentype');
+}
+
+body {
+    font-family: 'unisans', sans-serif;
+    letter-spacing: 2px;
+    color: $color-white;
+}
+
+.font-acetone {
+    font-family: 'acetone', sans-serif;
+}
+
+.font-unisans-thin {
+    font-family: 'unisans-thin', sans-serif;
+}
+
+.font-unisans {
+    font-family: 'unisans', sans-serif;
+}
+
+.bg-carbon {
+    background: linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px, linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px, linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px, linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px, linear-gradient(90deg, #1b1b1b 10px, transparent 10px), linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;
+}
+
+.bg-black {
+    background-color: $color-black;
+}

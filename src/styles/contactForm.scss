@@ -1,0 +1,67 @@
+@import './customVariables.scss';
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+#section-bjj {
+    @media (min-width: 992px) {
+        margin-top: $desktop-menu-height;
+    }
+}
+
+#mobile-contact {
+    form {
+        input {
+            background-color: black;
+            font-size: 25px;
+            letter-spacing: 3px;
+            color: white;
+        }
+        label {
+            font-family: "unisans-thin";
+        }
+        .form-check {
+            margin-left: 20px;
+            text-align: left;
+            label {
+                font-family: "unisans";
+                font-size: 20px;
+            }
+        }
+    }
+    h1 {
+        font-size: 7em;
+    }
+    p {
+        font-size: 1.5em;
+    }
+}
+
+#desktop-contact {
+    form {
+        input {
+            background-color: black;
+            font-size: 25px;
+            letter-spacing: 3px;
+            color: white;
+        }
+        label {
+            font-family: "unisans-thin";
+        }
+        .form-check {
+            margin-left: 20px;
+            text-align: left;
+            label {
+                font-family: "unisans";
+                font-size: 20px;
+            }
+        }
+    }
+    h1 {
+        font-size: 7em;
+    }
+    p {
+        font-size: 1.5em;
+    }
+}
