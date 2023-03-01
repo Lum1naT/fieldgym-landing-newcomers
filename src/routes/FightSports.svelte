@@ -29,11 +29,10 @@
 
 			<div class="col-6 bg-black"><h1 class="text-center pt-1 m-5">Bojové Sporty</h1><p class="font-unisans-thin pt-1 m-5">inia libero, at fringilla felis efficitur sit amet. Fusce id ex quis nisl dapibus</p></div>
 
-			<div class="col-1"></div>
+			<div class="col-1 m-3"></div>
 
-			<div class="col-1"></div>
 			
-			<div class="col-6 bg-black"><p class="font-unisans-thin pt-1 m-5">inia libero, at fringilla felis efficitur sit amet. Fusce id ex quis nisl dapibus condimentum. Sed tincidunt augue sollicitudin vulputate vulputate. Donec sed efficitur augue. Na</p></div>
+			<div class="col-6 bg-black p-3"><p class="font-unisans-thin pt-1 m-5">inia libero, at fringilla felis efficitur sit amet. Fusce id ex quis nisl dapibus condimentum. Sed tincidunt augue sollicitudin vulputate vulputate. Donec sed efficitur augue. Na</p></div>
 			<div class="col-4 bg-black"><img src="/uploads/bjj.jpeg" alt="fight-sports" width="600" height="400" class="p-3 m-3 img-fluid"></div>
 
 			<div class="col-1"></div>
