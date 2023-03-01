@@ -18,8 +18,8 @@
 				</a>
 				<div class="nav-fill">
 					<a  href="#section-bjj" on:click|preventDefault={scrollIntoView}>BJJ</a>
-					<a  href="#section-2" on:click|preventDefault={scrollIntoView}>MMA</a>
-					<a  href="#section-3" on:click|preventDefault={scrollIntoView}>Bojové Sporty</a>
+					<a  href="#section-mma" on:click|preventDefault={scrollIntoView}>MMA</a>
+					<a  href="#section-fight-sports" on:click|preventDefault={scrollIntoView}>Bojové Sporty</a>
 				</div>
 				</div>
 
